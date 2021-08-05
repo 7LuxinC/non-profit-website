@@ -1,0 +1,108 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(Sources/opensans-regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url(Sources/opensans-bold.ttf);
+    font-weight: bold;
+}
+
+html {
+    background-color: #4aafb4;
+    font-family: OpenSans;
+}
+
+article {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: auto;
+    background-color: #7f7f7f;
+}
+
+/* About us page */
+
+h{
+	font-size: 100px;
+}
+
+a{
+	font-size: 40px;
+    text-align: center;	
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.centerText {
+	Text-align: center;
+}
+
+q{
+	font-size: 50px;
+}
+
+.container1{
+	position:relative;
+	text-align:center;
+}
+
+.centered{
+	position: absolute;
+	top: 20%;
+	left:50%;
+	transform:translate(-40%,40%);
+}
+
+/* Contact us page*/
+
+.contactImage {
+    width: 150px;
+    height: 200px;
+    position: fixed;
+}
+
+.contactDiv {
+    margin: auto;
+}
+
+/* Blog page*/
+
+.quoteLeft {
+    width:400px;
+    height:300px;
+    margin-right:15px;
+    margin-left: 50px;
+    float: left;
+}
+
+.quoteRight {
+    width:400px;
+    height:300px;
+    margin-right:51px;
+    margin-left: 15px;
+    float: right; 
+}
+
+/* Gallery page */
+.gallery {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.galleryImage {
+    height: 540px;
+    width: 960px;
+    opacity: 1;
+    border-radius: 5px;
+    transition: opacity 1s;
+}
+
+.galleryImage:hover {
+    opacity: 0.5;
+}

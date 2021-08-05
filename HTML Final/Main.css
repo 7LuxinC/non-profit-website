@@ -1,0 +1,241 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(Sources/opensans-regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url(Sources/opensans-bold.ttf);
+    font-weight: bold;
+}
+
+html {
+    background-color: #cffffd;
+    font-family: OpenSans;
+    min-height: 100%;
+}
+
+a {
+    font-family: OpenSans;
+    font-weight: bold;
+    color: #21b0b8;
+}
+
+/* Header */
+
+.nav-bar{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.wrapper{
+	width: 1170px;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 150px;
+    height: 100px;
+    margin-left: 0px;
+}
+
+header{
+   height: 100px;
+   background-color:  #21b0b8;
+   width: 100%;
+   z-index: auto;
+   position: sticky;
+}
+.nav{
+   float: right;
+   line-height: 100px;
+   
+}
+
+nav a{
+   text-decoration: none;
+   letter-spacing: 4px;
+   font-size: 20px;
+   margin: 0 10px;
+   color: #fff; 
+   word-spacing: 10px;
+}
+
+/* Main Body */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #f1f1f1;
+    margin-bottom: 100px;
+  }
+  
+  
+  
+  
+  
+  
+  /* Create two unequal columns that floats next to each other */
+  /* Left column */
+  .leftcolumn {   
+    float: left;
+    width: 75%;
+    padding: 10px;
+  }
+  
+  /* Right column */
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Fake image */
+  .fakeimg {
+     width: 100%;
+    padding: 20px;
+    background-color:gray;
+  }
+  
+  .img{
+      width:100%;
+      height:250px;
+      }
+  
+  /* Add a card effect for articles */
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 60px;
+     display:block;
+    margin-bottom: 1px;
+    
+  }
+  
+  
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .column-image{
+      width: 100%;
+  }
+
+  .card-image{
+      max-width: 100%;
+      max-height: 100%;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+/* About us page */
+
+h{
+	font-size: 100px;
+}
+
+a{
+	font-size: 40px;
+    text-align: center;	
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.centerText {
+	Text-align: center;
+}
+
+q{
+	font-size: 50px;
+}
+
+.container1{
+	position:relative;
+	text-align:center;
+}
+
+.centered{
+  text-align: center;
+}
+
+.aboutusimage {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Contact us page*/
+
+.contactImage {
+    width: 150px;
+    height: 200px;
+    position: relative;
+}
+
+.contactText {
+    height: 200px;
+    width: auto;
+    position: fixed;
+}
+
+.contactDiv {
+    margin: 0% 20%;
+}
+
+/* Blog page*/
+
+.blog{
+    object-fit: contain;
+    padding-bottom: 5%;
+}
+
+.quoteLeft {
+    width:400px;
+    height:300px;
+    margin-right:15px;
+    margin-left: 50px;
+    float: left;
+    object-fit: contain;
+}
+
+.quoteRight {
+    width:400px;
+    height:300px;
+    margin-right:51px;
+    margin-left: 15px;
+    float: right; 
+    object-fit: contain;
+}
+
+/* Gallery page */
+.gallery {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.galleryImage {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    border-radius: 5px;
+    transition: opacity 1s;
+}
+
+.galleryImage:hover {
+    opacity: 0.5;
+}

@@ -1,0 +1,35 @@
+
+
+h{
+	font-size: 100px
+}
+
+a{
+	font-size: 40px
+    text-align:center;	
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.centerText {
+	Text-align:center;
+}
+
+q{
+	font-size: 50px;
+}
+
+.container1{
+	position:relative;
+	text-align:center;
+}
+
+.centered{
+	position: absolute;
+	top: 20%;
+	left:50%;
+	transform:translate(-40%,40%);
+}

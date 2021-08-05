@@ -1,0 +1,31 @@
+ 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blog for the website</title>
+	
+</head>
+<body style="background-color: #E9E8E8;" >
+<h1 style="font-size: 55px " ><i>"Every dog must have his day." </i>-Jonathan Swift</h1>
+<p style="font-family:  Arial; font-size: 30px;padding-top: 50px	;"><img   src="https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_1280.jpg" style="width:400px;height:300px; margin-right:15px;margin-left: 50px ;float: left; ">
+"Its been almost 3 years since the inaugration of the dog shelter took place. Since then the dog shelter has gained a lot of resources in terms of personel, impact in their global goal,etc. It is not only responsible for over 250 dog rescues per year but also responsible for putting the people responsible for the crimes on said dogs behind bars. Its impressive how such small and cute creatures can create such a big impact."
+</p></p><b>Sophia Keady</b><i> -(Cheif of Operations, Dog Shelter)</i>
+<p style="font-family: Arial;">September 3rd</p>
+
+<p style="font-family:  Arial; font-size: 30px;padding-top: 60px;"><img   src="https://cdn.pixabay.com/photo/2015/04/10/00/47/dog-715545_1280.jpg" style="width:400px;height:300px; margin-right:51px;margin-left: 15px ;float: right; ">
+"Being the head sponsorer, it is my responsibilty that there are enough resources or funding for the shelter to run. My job has become easier since the shelter has become self-sufficent due to donations, campaigns, etc. The odg shelter is a non-profit organization hence it devotes all of its funds to the cause. "
+</p><b>Jai</b><i> -(Head Sponsorer, Dog Shelter)</i>
+<p style="font-family: Arial;">August 09</p>
+
+<p style="font-family:  Arial; font-size: 30px;padding-top: 100px;"><img   src="https://cdn.pixabay.com/photo/2015/02/21/10/39/dog-644111_1280.jpg" style="width:400px;height:300px; margin-right:15px;margin-left: 50px ;float: left; ">
+"Its been almost 3 years since the inaugration of the dog shelter took place. Since then the dog shelter has gained a lot of resources in terms of personel, impact in their global goal,etc. It is not only responsible for over 250 dog rescues per year but also responsible for putting the people responsible for the crimes on said dogs behind bars. Its impressive how such small and cute creatures can create such a big impact."
+</p><b>Luxin</b><i> -(Animal Activist, Animal Rights Movement)</i>
+<p style="font-family: Arial;">May 01</p>
+
+<p style="font-family:  Arial; font-size: 30px;padding-top: 70px;"><img   src="https://cdn.pixabay.com/photo/2015/10/12/14/57/dogs-984015_1280.jpg" style="width:400px;height:300px; margin-right:50px;margin-left: 15px ;float: right; ">
+"Its been almost 3 years since the inaugration of the dog shelter took place. Since then the dog shelter has gained a lot of resources in terms of personel, impact in their global goal,etc. It is not only responsible for over 250 dog rescues per year but also responsible for putting the people responsible for the crimes on said dogs behind bars. Its impressive how such small and cute creatures can create such a big impact."
+</p><b>Soham Joshi</b><i> -(Welfare Reporter, Daily News)</i>
+<p style="font-family: Arial;">March 7</p>
+
+</body>
+</html>
